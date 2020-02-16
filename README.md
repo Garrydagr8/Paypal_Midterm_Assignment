@@ -1,6 +1,15 @@
 # Paypal_Midterm_Assignment
 MidTerm Assignment for PayPal VAP course in VIT Chennai
 
+# Index  
+1. Dependencies  
+2. Usage  
+3. About  
+4. Concepts used from VAP  
+5. Difficulties Faced  
+6. ScreenShots  
+7. Credits  
+
 # Dependencies
 - npm install express  
 - npm install body-parser  
