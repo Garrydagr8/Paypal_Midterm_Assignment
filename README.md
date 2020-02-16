@@ -16,7 +16,7 @@ MidTerm Assignment for PayPal VAP course in VIT Chennai
 - npm install pug  
 - npm install node-fetch  
 - npm install nodemon  
-
+[Back To Top](#index)  
 # Usage
 - nodemon midterm-assignment.js 
 - open in browser https://localhost:8080/home to start the app   
@@ -25,6 +25,7 @@ MidTerm Assignment for PayPal VAP course in VIT Chennai
 - add courses according to wish  
 - click on courses to add them (tick mark will come)  
 - click on x to delete courses  
+[Back To Top](#index)  
 
 # About
 
@@ -32,13 +33,15 @@ On editing courses.json you can define courses list that are already available o
 The implemented app enables the user to login into the course subscription platform and  
 either choose from the already offered courses or add new courses according to the needs  
 of the user. Here the user can be a student or a professor  
+[Back To Top](#index)  
 
 # Concepts Used from VAP
 
 - Express js Framework
 - Use of Promises
 - Use of PUG HTML Template Generating Engine
-- Event listeners and handlers
+- Event listeners and handlers  
+[Back To Top](#index)  
 
 # Difficulties Faced
 
@@ -46,6 +49,7 @@ Working with session variables to store login information and perform authentica
 Adding inline scripts in pug templates - (implemented)  
 Adding inline styling in pug templates - (implemented)  
 Adding an image from local file using src attribute in pug template - (Not implemented)  
+[Back To Top](#index)  
 
 # ScreenShots
 
@@ -80,8 +84,10 @@ Delete unwanted courses
 ![image](https://user-images.githubusercontent.com/42300415/74602102-72090b80-50cb-11ea-8a7a-8a983f36dfd5.png)  
   
 Logout to go back to home page   
+[Back To Top](#index)  
 
 # Assignment By
 Gariman Gupta 17BCE1016  
 Vellore Institute of Technology  
 Published on 16-02-2020  
+[Back To Top](#index)  
