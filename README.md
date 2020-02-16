@@ -38,6 +38,40 @@ Adding inline scripts in pug templates - (implemented)
 Adding inline styling in pug templates - (implemented)  
 Adding an image from local file using src attribute in pug template - (Not implemented)  
 
+# ScreenShots
+
+![image](https://user-images.githubusercontent.com/42300415/74602102-72090b80-50cb-11ea-8a7a-8a983f36dfd5.png)  
+  
+Login Page  
+  
+![image](https://user-images.githubusercontent.com/42300415/74602116-9a910580-50cb-11ea-9d20-0c642319249c.png)  
+  
+Login Popup Screen  
+    
+![image](https://user-images.githubusercontent.com/42300415/74602130-b3012000-50cb-11ea-9e7f-414b53160695.png)  
+  
+Default Courses from courses.json  
+  
+![image](https://user-images.githubusercontent.com/42300415/74602144-cf9d5800-50cb-11ea-8d60-16fed793f9d6.png)  
+  
+Add Courses not in list  
+  
+![image](https://user-images.githubusercontent.com/42300415/74602150-db891a00-50cb-11ea-87d1-f6a348ee8fa5.png)  
+  
+Course Added Successfully  
+  
+![image](https://user-images.githubusercontent.com/42300415/74602157-eba0f980-50cb-11ea-8083-1a2d531f855e.png)  
+  
+Subscribe to courses as per requirement  
+  
+![image](https://user-images.githubusercontent.com/42300415/74602164-f9ef1580-50cb-11ea-9cdb-6c56b8832d4a.png)  
+  
+Delete unwanted courses  
+  
+![image](https://user-images.githubusercontent.com/42300415/74602102-72090b80-50cb-11ea-8a7a-8a983f36dfd5.png)  
+  
+Logout to go back to home page   
+
 # Assignment By
 Gariman Gupta 17BCE1016  
 Vellore Institute of Technology  
