@@ -2,14 +2,20 @@
 MidTerm Assignment for PayPal VAP course in VIT Chennai
 
 # Dependencies
-npm install express  
-npm install body-parser  
-npm install pug  
-npm install node-fetch  
-npm install nodemon  
+- npm install express  
+- npm install body-parser  
+- npm install pug  
+- npm install node-fetch  
+- npm install nodemon  
 
 # Usage
-nodemon midterm-assignment.js  
+- nodemon midterm-assignment.js 
+- open in browser https://localhost:8080/home to start the app   
+- the login button will popup a login screen  
+- enter any credentials to login  
+- add courses according to wish  
+- click on courses to add them (tick mark will come)  
+- click on x to delete courses  
 
 # About
 
