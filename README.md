@@ -2,13 +2,13 @@
 MidTerm Assignment for PayPal VAP course in VIT Chennai
 
 # Index  
-1. Dependencies  
-2. Usage  
-3. About  
-4. Concepts used from VAP  
-5. Difficulties Faced  
-6. ScreenShots  
-7. Credits  
+1. [Dependencies](#dependencies)  
+2. [Usage](#usage)  
+3. [About](#about)  
+4. [Concepts used from VAP](#concepts-used-from-vap)  
+5. [Difficulties Faced](#difficulties-faced)  
+6. [ScreenShots](#screenshots)  
+7. [Credits](#credits)  
 
 # Dependencies
 - npm install express  
