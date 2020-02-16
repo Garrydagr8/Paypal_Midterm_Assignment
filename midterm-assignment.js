@@ -11,7 +11,7 @@ app.use(bodyparser.urlencoded({
 app.set('view engine', 'pug');
 app.set('views', './views');
 
-//add promises to create user, and course array
+
 
 var students = []
 var courses = []
@@ -38,8 +38,7 @@ promise2
     .finally(() => console.log("COURSES ARRAY CREATED"))
 
 
-//precode ends
-//app get and post methods start
+
 
 app.get('/home', function(req, res) {
     res.render('form1');
@@ -57,5 +56,3 @@ app.get('/add_courses1', function(req, res) {
 
 
 app.listen(8080);
-// create course option remains
-// add user (optional)
