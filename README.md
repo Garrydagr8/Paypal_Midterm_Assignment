@@ -24,6 +24,13 @@ The implemented app enables the user to login into the course subscription platf
 either choose from the already offered courses or add new courses according to the needs  
 of the user. Here the user can be a student or a professor  
 
+# Concepts Used from VAP
+
+- Express js Framework
+- Use of Promises
+- Use of PUG HTML Template Generating Engine
+- Event listeners and handlers
+
 # Difficulties Faced
 
 Working with session variables to store login information and perform authentication based on students.json - (Not implemented)  
